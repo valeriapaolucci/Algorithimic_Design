@@ -1,0 +1,12 @@
+CXX = gcc
+OPT = -O4
+
+all: strassen_test
+
+strassen_test: matrix.c strassen.c main.c
+	$(CXX) $(OPT) $^ -o $@
+
+clean:
+	@rm *.x
+
+.PHONY: clean all
