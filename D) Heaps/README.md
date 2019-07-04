@@ -1,4 +1,4 @@
-#Heaps: Homework
+# Heaps: Homework
 
 We are required to implement the array-based representation of binary heap, with an iterative version of HEAPIFY.
 
