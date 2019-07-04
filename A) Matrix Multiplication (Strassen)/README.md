@@ -1,4 +1,4 @@
-#Matrix Multiplication: Homework
+# Matrix Multiplication: Homework
 
 We are required to improve the implementation of the provided Strassen’s algorithm by **reducing the memory allocations**, and to test the effects on the execution time.
 
