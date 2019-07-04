@@ -1,4 +1,4 @@
-#Sorting: Homework
+# Sorting: Homework
 
 We are required to implement:
 • **Insertion Sort**;
